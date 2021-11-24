@@ -84,7 +84,7 @@ $totalRows_Recordset2 = mysqli_num_rows($Recordset2);
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 

@@ -30,7 +30,7 @@ if(isset($_SESSION['$UserName_job'])){
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 

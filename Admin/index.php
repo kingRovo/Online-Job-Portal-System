@@ -32,7 +32,7 @@ else{
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 

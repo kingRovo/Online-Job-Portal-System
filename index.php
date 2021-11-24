@@ -18,7 +18,7 @@ if(isset($_SESSION['$UserName_emp'])){
     <meta http-equiv="content-language" content="cs" />
     
     
-    <title>My Path Alerts</title>
+    <title>My Path Alerts </title>
 
     
     <link rel="index" href="./" title="Home" />
@@ -39,7 +39,7 @@ if(isset($_SESSION['$UserName_emp'])){
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 

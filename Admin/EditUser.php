@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="cs"/>
 
-    <title>My Path Alerts</title>
+    <title>My Path Alerts | Edit User</title>
     <meta name="description" content="..."/>
     <meta name="keywords" content="..."/>
 
@@ -46,7 +46,7 @@
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
     <?php

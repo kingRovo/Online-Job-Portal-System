@@ -358,7 +358,7 @@ function ds_onclick(d, m, y) {
     <link href="../SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 

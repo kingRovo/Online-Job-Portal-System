@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
   
-<title>JOB PORTAL</title>
+<title>My Path Alerts </title>
    
     
     <link rel="index" href="./" title="Home" />

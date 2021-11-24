@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="cs"/>
    
-    <title>My Path Alerts</title>
+    <title>My Path Alerts | Job</title>
 
 
     <link rel="index" href="./" title="Home"/>
@@ -22,7 +22,7 @@
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
     <?php

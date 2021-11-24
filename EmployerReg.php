@@ -4,12 +4,8 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
-    <meta name="robots" content="all,follow" />
 
-    <meta name="author" content="All: ... [Nazev webu - www.url.cz]; e-mail: info@url.cz" />
-    <meta name="copyright" content="Design/Code: Vit Dlouhy [Nuvio - www.nuvio.cz]; e-mail: vit.dlouhy@nuvio.cz" />
-    
-<title>Job Portal</title>
+<title>My Path Alerts </title>
     <meta name="description" content="..." />
     <meta name="keywords" content="..." />
     
@@ -29,7 +25,7 @@
     <link href="SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css" />
 </head>
 
-<body id="www-url-cz">
+<body>
 <SCRIPT language="JavaScript1.2" src="gen_validation.js"></SCRIPT>
 <SCRIPT language="JavaScript1.2">
 var arrFormValidation=

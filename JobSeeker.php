@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
  
-    <title>My Path alerts</title>
+    <title>My Path alerts | JobSeeker</title>
  
     
     <link rel="index" href="./" title="Home" />
@@ -22,7 +22,7 @@
     </style>
 </head>
 
-<body id="www-url-cz">
+<body >
 <SCRIPT language="JavaScript1.2" src="gen_validation.js"></SCRIPT>
 <SCRIPT language="JavaScript1.2">
 var arrFormValidation=

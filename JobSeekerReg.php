@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
    
-    <title>Welcome To online Job Portal</title>
+    <title>My Path Alerts| Registration</title>
 
     
     <link rel="index" href="./" title="Home" />

@@ -17,7 +17,7 @@ else{
     <meta http-equiv="content-language" content="cs" />
 
 
-    <title>My Path Alerts</title>
+    <title>My Path Alerts | Employer</title>
  
     
     <link rel="index" href="./" title="Home" />
@@ -34,7 +34,7 @@ else{
     </style>
 </head>
 
-<body id="www-url-cz">
+<body>
 <!-- Main -->
 <div id="main" class="box">
 <?php 
