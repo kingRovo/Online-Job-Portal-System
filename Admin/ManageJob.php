@@ -12,12 +12,8 @@ else{
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="content-language" content="cs"/>
-    <meta name="robots" content="all,follow"/>
 
-    <meta name="author" content="All: ... [Nazev webu - www.url.cz]; e-mail: info@url.cz"/>
-    <meta name="copyright" content="Design/Code: Vit Dlouhy [Nuvio - www.nuvio.cz]; e-mail: vit.dlouhy@nuvio.cz"/>
-
-    <title>JOB PORTAL</title>
+    <title>My Path Alerts | Admin</title>
     <meta name="description" content="..."/>
     <meta name="keywords" content="..."/>
 

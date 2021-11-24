@@ -12,14 +12,9 @@ if(isset($_SESSION['$UserName_job'])){
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
-    <meta name="robots" content="all,follow" />
+  
+<title>My Path Alerts</title>
 
-    <meta name="author" content="All: ... [Nazev webu - www.url.cz]; e-mail: info@url.cz" />
-    <meta name="copyright" content="Design/Code: Vit Dlouhy [Nuvio - www.nuvio.cz]; e-mail: vit.dlouhy@nuvio.cz" />
-    
-<title>JOB PORTAL</title>
-    <meta name="description" content="..." />
-    <meta name="keywords" content="..." />
     
     <link rel="index" href="./" title="Home" />
     <link rel="stylesheet" media="screen,projection" type="text/css" href="./css/main.css" />
@@ -122,10 +117,7 @@ include "menu.php"
                           <td><strong>Passing Year:</strong></td>
                           <td><label>
                             <select name="cmbYear" id="cmbYear">
-                              <option>1993</option>
-                              <option>1994</option>
-                              <option>1995</option>
-                              <option>1996</option>
+                            
                               <option>1997</option>
                               <option>1998</option>
                               <option>1999</option>
@@ -148,6 +140,14 @@ include "menu.php"
                               <option>2016</option>
                               <option>2017</option>
                               <option>2018</option>
+                              <option>2019</option>
+                              <option>2020</option>
+                              <option>2021</option>
+                              <option>2022</option>
+                              <option>2023</option>
+                              <option>2024</option>
+                              <option>2025</option>
+                              <option>2026</option>
 
                             </select>
                           </label></td>

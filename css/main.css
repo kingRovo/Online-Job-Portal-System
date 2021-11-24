@@ -1,10 +1,10 @@
 
 
 * {min-height:1px;}
-body {border:0; margin:0; padding:0; background:#F2F5FE url("../design/bg.gif") 0 0 repeat-x; font:70%/160% "verdana",sans-serif; color:#192666; _text-align:center;}
+body {border:0; margin:0; padding:0; background:#F2F5FE url("../design/bg.gif") 0 0 repeat-x; font:70%/160% "verdana",sans-serif; color:#379683; _text-align:center;}
 
-a {color:#192666;}
-a:hover {color:#4F6AD7;}
+a {color:#379683;}
+a:hover {color:#8EE4AF;}
 
 p {border:0; margin:15px 0; padding:0; line-height:30px;}
 
@@ -20,7 +20,7 @@ h5 {font-size:100%;}
 table {display:table;  margin:15px 0; padding:0; border:1px solid #B7CAF6; font-size:100%;}
 tr {display:table-row;}
 th, td {display: table-cell; border:1px solid #B7CAF6; margin:0; padding:5px; vertical-align:top; text-align:left;}
-th {background:#E7ECFD; text-align:center; color:#192666; font-weight:bold;}
+th {background:#E7ECFD; text-align:center; color:#379683; font-weight:bold;}
 
 ul, ol {display:block; border:0; margin:15px 0 15px 40px; padding:0;}
 ol {list-style-type:decimal;}
@@ -33,7 +33,7 @@ dd {border:0; margin:0 0 0 30px; padding:0;}
 
 form {border:0; margin:0; padding:0;}
 fieldset {border:1px solid #ccc; margin:15px 0; padding:10px;}
-legend {margin-left:10px; font-size:100%; font-weight:bold; color:#008;}
+legend {margin-left:10px; font-size:100%; font-weight:bold; color:rgb(0, 136, 136);}
 
 hr {display:block; height:1px; margin:10px 0; padding:0; background:#CCC; border:0 solid #CCC; color:#CCC;}
 
@@ -68,7 +68,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 #main {width:770px; margin:50px auto 0 auto; _text-align:left;}
 
 /* Header */
-#header {position:relative; width:770px; height:100px; margin:0; padding:0; background:#233C9B url("../design/header.jpg") 0 0 no-repeat; color:#FFF;}
+#header {position:relative; width:770px; height:100px; margin:0; padding:0; background:#35c2d4 url("../design/header.jpg") 0 0 no-repeat; color:#FFF;}
 
     /* Header - logo */
     #header #logo {position:absolute; top:35px; left:35px; margin:0;}
@@ -79,15 +79,15 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
     /* Header - Search */
     #header #search {position:absolute; top:35px; right:20px;}
     #header #search form {position:relative;}
-    #header #search #search-input-out {position:absolute; top:0; right:45px; width:155px; height:28px; margin:0; padding:0; border:0; background:url("../design/search_input.gif") 0 0 no-repeat; font:bold 90%/100% "verdana",sans-serif; color:#192666;}
-    #header #search #search-input {width:140px; margin:5px 8px; padding:3px 0; border:0; background:#FFF; font:bold 100%/100% "verdana",sans-serif; color:#192666;}
+    #header #search #search-input-out {position:absolute; top:0; right:45px; width:155px; height:28px; margin:0; padding:0; border:0; background:url("../design/search_input.gif") 0 0 no-repeat; font:bold 90%/100% "verdana",sans-serif; color:#379683;}
+    #header #search #search-input {width:140px; margin:5px 8px; padding:3px 0; border:0; background:#FFF; font:bold 100%/100% "verdana",sans-serif; color:#379683;}
     #header #search #search-submit {position:absolute; top:0; right:0px;}
     #header #search fieldset {margin:0; padding:0; border:0;}
     #header #search fieldset {width:200px;}
     #header #search legend {display:none;}
 
 /* Main menu (tabs) */
-#tabs {background:#192666; margin:0 5px; padding:10px 0 0 0; _height:1px;}
+#tabs {background:#379683; margin:0 5px; padding:10px 0 0 0; _height:1px;}
 
     #tabs ul {margin:0 10px; padding:0; list-style:none;}
     #tabs ul li {margin:0 5px 0 0; padding:0; float:left;}
@@ -103,7 +103,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
     #tabs ul li a:hover span.tab-r {background:url("../design/tab_hover_r.gif") 100% 0 no-repeat;}
     
     /* Main menu (tabs - active) */
-    #tabs ul li#active a {background:#FFF; color:#FF9000;}
+    #tabs ul li#active a {background:#FFF; color:#5bdb9f;}
     #tabs ul li#active a span.tab-l {position:absolute; top:0; left:0; _left:-15px; width:8px; height:8px; background:url("../design/tab_active_l.gif") 0 0 no-repeat;}
     #tabs ul li#active a span.tab-r {position:absolute; top:0; right:0; width:8px; height:8px; background:url("../design/tab_active_r.gif") 100% 0 no-repeat;}
 
@@ -115,7 +115,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 #strip {position:relative; clear:both; padding:3px 20px 10px 20px; color:#6182D1;}
 #strip p {margin:0;}
 #strip a {color:#6182D1;}
-#strip a:hover {color:#192666;}
+#strip a:hover {color:#379683;}
 
     /* Strip - breadcrumbs */
     #strip #breadcrumbs {width:520px; margin:0; padding:0;}
@@ -128,7 +128,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 
     /* Content - article */
     #content .article {clear:both; margin:0; padding:20px; background:url("../design/content_article_bg.jpg") 0 0 no-repeat;}
-    #content .article h2 {margin:0 -20px; padding:10px; background:#DEE5FD url("../design/content_title_bg.gif") 0 0 repeat-y; color:#192666;}
+    #content .article h2 {margin:0 -20px; padding:10px; background:#DEE5FD url("../design/content_title_bg.gif") 0 0 repeat-y; color:#379683;}
     #content .article h2 span {background:url("../design/ico_list.gif") 0 50% no-repeat; padding-left:25px;}
     
     #content .article p {text-align:justify;}
@@ -150,7 +150,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 /* Right column */
 #col {float:left; width:200px; margin:0; padding:0; background:#CEDBF9 url("../design/col_bg.gif") 0 0 repeat-y;}
 #col-in {padding:20px 10px; background:url("../design/col_top.gif") 0 0 no-repeat;}
-#col h3 {padding:13px 15px 14px 15px; margin:0 -10px 15px -10px; background:#A0B9F3 url("../design/col_title_bg.gif") 0 0 repeat-y; color:#192666;}
+#col h3 {padding:13px 15px 14px 15px; margin:0 -10px 15px -10px; background:#A0B9F3 url("../design/col_title_bg.gif") 0 0 repeat-y; color:#379683;}
 
     /* Right column - About me */
     #col #about-me {margin-bottom:15px; line-height:130%;}
@@ -161,26 +161,26 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
     #col ul#category {margin:15px 0; padding:0; list-style:none;}
     #col ul#category li {margin:0; padding:0; border-bottom:1px solid #E0E8FA;}
     #col ul#category li a {display:block; padding:3px 0 3px 22px; background:url("../design/ico_archive.gif") 5px 6px no-repeat; text-decoration:none;}
-    #col ul#category li a:hover {background-color:#D3DFF8; color:#192666;}
+    #col ul#category li a:hover {background-color:#D3DFF8; color:#379683;}
     #col ul#category li#category-active a {background:#E0E8FA url("../design/ico_archive2.gif") 5px 50% no-repeat; font-weight:bold;}
     
     /* Right column - Archive */
     #col ul#archive {margin:15px 0; padding:0; list-style:none;}
     #col ul#archive li {margin:0; padding:0; border-bottom:1px solid #E0E8FA;}
     #col ul#archive li a {display:block; padding:3px 0 3px 22px; background:url("../design/ico_archive.gif") 5px 50% no-repeat; text-decoration:none;}
-    #col ul#archive li a:hover {background-color:#D3DFF8; color:#192666;}
+    #col ul#archive li a:hover {background-color:#D3DFF8; color:#379683;}
     #col ul#archive li#archive-active a {background:#E0E8FA url("../design/ico_archive2.gif") 5px 6px no-repeat; font-weight:bold;}
     
     /* Right column - Links */
     #col ul#links {margin:15px 0; padding:0; list-style:none;}
     #col ul#links li {margin:0; padding:0; border-bottom:1px solid #E0E8FA;}
     #col ul#links li a {display:block; padding:3px 0 3px 22px; background:url("../design/ico_links.gif") 5px 6px no-repeat; text-decoration:none;}
-    #col ul#links li a:hover {background-color:#D3DFF8; color:#192666;}
+    #col ul#links li a:hover {background-color:#D3DFF8; color:#379683;}
 
 /* Footer */
 #footer {position:relative; clear:both; width:770px; height:60px; margin-bottom:50px; background:url("../design/footer.jpg") 0 0 no-repeat; color:#6685CC;}
 #footer a {color:#6685CC;}
-#footer a:hover {color:#192666;}
+#footer a:hover {color:#379683;}
 
     /* Footer - "back on top" */
     #top {position:absolute; top:55px; left:550px;}
@@ -216,7 +216,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 	font-size:12px;
 	font-weight:bold;
 	border-radius:5px 0px 5px 0px;
-	color:#003366;
+	color:#167997;
 }
 .login input[type="text"]:hover
 {
@@ -241,7 +241,7 @@ code, kbd, samp {font-family:monospace; font-size:110%;}
 }
 .login input[type="password"]:hover
 {
-	background-color:#003366;
+	background-color:#379683;
 	height:22px;
 	width:160px;
 	border:1px solid black;
