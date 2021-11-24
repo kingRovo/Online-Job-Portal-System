@@ -6,5 +6,5 @@
         <p class="style1" id="createdby">created by Rovo's Team
       
         </p>
-        <p>Hamro JOB.com</p>
+        <p>my-path-alerts.com</p>
   </div> <!-- /footer -->
