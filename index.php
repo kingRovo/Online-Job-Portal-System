@@ -84,11 +84,11 @@ include "menu.php"
 
             <!-- Article -->
             <div class="article">
-                <h2><span><a href="#">Welcome To Job Portal System</a></span></h2>
-				<h3><marquee>Welcome To Job Portal System</marquee></h3>
+                <h2><span><a href="#">Welcome To My Path Alerts</a></span></h2>
+				<h3><marquee>Welcome To My Path Alerts</marquee></h3>
                
 
-                <p> <span class="style2">W</span>elcome to online Job Portal. It provides facility to the Job Seeker to search for various jobs as per his qualification. Here Job Seeker can registered himself on the web portal and create his profile along with his educational information. Job Seeker can search various jobs and apply for the Job.</p>
+                <p> <span class="style2">W</span>elcome to Job Portal. It provides facility to the user to search for various jobs as per his Education and skills. On this job poratal Job Seeker can registered himself on the web portal and create his profile along with his educational information. Job Seeker can search various jobs and apply for the Job.</p>
               <p>This Portal is also designed for the various employer who required to recruit employees in their organization. Employer can registered himself on the web portal and then he can upload information of various job vacancies in their organization. Employeer can view the applications of Job Seeker and send call latter to the job seekers.</p>
               <p align="right"> <img src="design/banner-4.jpg" alt="" width="510" height="300" /></p>
               <p class="btn-more box noprint">&nbsp;</p>
