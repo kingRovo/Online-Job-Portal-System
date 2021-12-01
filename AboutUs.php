@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
 
-    <title>JOB PORTAL</title>
+    <title>My Path Alerts| About Us</title>
   
     
     <link rel="index" href="./" title="Home" />
@@ -70,7 +70,7 @@ include "menu.php"
                 <h2><span><a href="#">About Us</a></span></h2>
                
 
-                <p>Welcome to online Job Portal. It provides facility to the Job Seeker to search for various jobs as per his qualification. Here Job Seeker can registered himself on the web portal and create his profile along with his educational information. Job Seeker can search various jobs and apply for the Job.</p>
+                <p>Welcome to My Path alerts. It provides facility to the Job Seeker to search for various jobs as per his qualification. Here Job Seeker can registered himself on the web portal and create his profile along with his educational information. Job Seeker can search various jobs and apply for the Job.</p>
 
                 <p>This Portal is also designed for the various employer who required to recruit employees in their organization. Employer can registered himself on the web portal and then he can upload information of various job vacancies in their organization. Employeer can view the applications of Job Seeker and send call latter to the job seekers.</p><b><b>
 				
