@@ -4,7 +4,7 @@
         <hr class="noscreen" />
         
         <p  id="createdby">created by Rovo's Team
-          <!-- DON´T REMOVE, PLEASE! -->
+          
         </p>
         <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My-Path-Alerts.com</p>
-  </div> <!-- /footer -->
+  </div>
